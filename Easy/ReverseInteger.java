@@ -1,7 +1,5 @@
 package Easy;
 
-import java.util.Stack;
-
 public class ReverseInteger {
     public static void main(String[] args) {
         var op = reverse(1463847412);
